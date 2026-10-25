@@ -1,0 +1,6 @@
+{
+  "name": "ClickCraft AI - YouTube Thumbnail & A/B Studio",
+  "description": "High-CTR YouTube thumbnail generator with AI video analysis, interactive canvas editor, simulated A/B testing, and real-time CTR analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
